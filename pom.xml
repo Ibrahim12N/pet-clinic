@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.springboot</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>pet-clinic</name>
 	<description>Pet Clinic Project</description>
 	<properties>
@@ -59,7 +59,7 @@
 	</build>
 <scm>
 	<developerConnection>scm:git:https://github.com/Ibrahim12N/pet-clinic.git</developerConnection>
-  <tag>HEAD</tag>
+  <tag>pet-clinic-0.0.2</tag>
   </scm>
 
 
